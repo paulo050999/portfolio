@@ -1,0 +1,68 @@
+.Cabeçalho {
+    background-color: cadetblue;
+    margin-bottom: 25px;
+    padding: 15px;
+    color:white;
+}
+
+.cabecalho-titulo{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+
+}
+
+.div-botao{
+    background-color: aquamarine;
+    width: 150px;
+    height: 150px;
+    border: 2px transparent;
+}
+
+.div-conteudo{
+    background-color: white;
+    display:flex;
+    gap: 10px 20px;
+    justify-content: center;
+    align-items: start;
+    height: 400px;
+}
+
+.div-video-container {
+    max-height: 300px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+
+.cabecalho-subtitulo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'verdana', 'sans-serif' ;
+    color:bisque
+
+}
+.Rodapé{
+    background-color: pink;
+
+}
+
+.video-player{
+    width: 100%;
+    margin-top:-110px;
+}
+
+.video-source{
+    width:100%;
+    height:auto;
+}
+.Texto{
+    background-color: green;
+}
+
+body{
+    margin-left:35px;
+    margin-right:35px;
+    margin-top:35px;
+
+
+
+}
